@@ -1,0 +1,2 @@
+# IntegradoraEstructura
+integradora de estructura
